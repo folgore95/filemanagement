@@ -1,4 +1,6 @@
 # File Management Programs
+<img src="https://github.com/folgore95/filemanagement/blob/master/logo.png"/>
+
 A collection of C++ programs
 
 ## Program A
