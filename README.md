@@ -14,5 +14,8 @@ Write a program that compares two text files and displays the result of the comp
 
 ## Program C
 
-Coming soon
+Write a program that:
+- Read from input 10 temperature values recorded at a certain time in 10 Italian cities
+- Create a "temperature.txt" text file containing the temperature and the name of the city to which it refers
+- Create a second "tempMedia.txt" file containing one line with the average temperature of 10 cities
 
