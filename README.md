@@ -19,3 +19,11 @@ Write a program that:
 - Create a "temperature.txt" text file containing the temperature and the name of the city to which it refers
 - Create a second "tempMedia.txt" file containing one line with the average temperature of 10 cities
 
+## Program D
+
+Coming soon
+
+## Program E
+
+Coming soon
+
