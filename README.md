@@ -1,5 +1,5 @@
 # File Management Programs
-<img src="https://github.com/folgore95/filemanagement/blob/master/logo.png"/>
+<img src="https://github.com/folgore95/media/blob/master/fm.png"/>
 
 A collection of C++ programs
 
