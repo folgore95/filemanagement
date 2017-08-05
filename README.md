@@ -1,4 +1,5 @@
 # File Management Programs
+[![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/folgore95/filemanagement/blob/master/LICENSE)
 <img src="https://github.com/folgore95/media/blob/master/fm.png"/>
 
 A collection of C++ programs
